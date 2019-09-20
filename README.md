@@ -1,5 +1,4 @@
 # Javascript_DOM
-TO VISIT WEBPAGE TYPE vaiosue.github.io INTO YOUR BROWSER
 
 Created a web page with a searchable database of UFO sightings using html, css, and javascript.
 
